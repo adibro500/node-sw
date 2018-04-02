@@ -1,0 +1,14 @@
+{
+  "name": "node-sw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fix-sw.js",
+  "scripts": {
+    "start":"node fix-sw.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "replace-in-file": "^3.4.0"
+  }
+}
