@@ -4,11 +4,12 @@
   "description": "",
   "main": "fix-sw.js",
   "scripts": {
-    "start":"node fix-sw.js"
+    "start": "node fix-sw.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.16.3",
     "replace-in-file": "^3.4.0"
   }
 }
